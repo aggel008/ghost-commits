@@ -1,1 +1,2 @@
 ghost commit 1
+ghost commit 2
