@@ -1,3 +1,4 @@
 ghost commit 1
 ghost commit 2
 ghost commit 3
+ghost commit 4
